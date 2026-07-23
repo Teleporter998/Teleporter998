@@ -21,7 +21,3 @@ Skills:
 - Team Leadership
 - Project Management
 - Game Testing
-- Bug Finding
-- Problem Solving
-- Self-learning
-- Creativity
